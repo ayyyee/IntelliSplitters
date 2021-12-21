@@ -1,0 +1,12 @@
+/*
+!.gitignore
+!COPYRIGHT
+!LICENSE
+!README.md
+
+!IntelliSplitters
+IntelliSplitters/*
+!IntelliSplitters/Config
+!IntelliSplitters/Content
+!IntelliSplitters/Source
+!IntelliSplitters.uplugin
