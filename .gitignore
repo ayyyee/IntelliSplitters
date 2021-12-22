@@ -6,7 +6,7 @@
 
 !IntelliSplitters
 IntelliSplitters/*
-!IntelliSplitters/Config
-!IntelliSplitters/Content
-!IntelliSplitters/Source
+!IntelliSplitters/Config/*
+!IntelliSplitters/Content/*
+!IntelliSplitters/Source/*
 !IntelliSplitters.uplugin
