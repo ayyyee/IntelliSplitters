@@ -5,8 +5,8 @@
 !README.md
 
 !IntelliSplitters
-IntelliSplitters/*
-!IntelliSplitters/Config/*
-!IntelliSplitters/Content/*
-!IntelliSplitters/Source/*
-!IntelliSplitters.uplugin
+IntelliSplitters/Binaries
+IntelliSplitters/Intermediate
+IntelliSplitters/Resources
+IntelliSplitters/Saved
+!IntelliSplitters/IntelliSplitters.uplugin
